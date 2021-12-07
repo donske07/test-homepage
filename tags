@@ -1,0 +1,26 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/Users/don/playaround/test-homepage/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/6df549a/
+@vitejs/plugin-vue	package.json	/^    "@vitejs\/plugin-vue": "^1.9.3",$/;"	s	object:devDependencies
+Recommended IDE Setup	README.md	/^## Recommended IDE Setup$/;"	s	chapter:Vue 3 + Vite
+Vue 3 + Vite	README.md	/^# Vue 3 + Vite$/;"	c
+app	index.html	/^    <div id="app"><\/div>$/;"	I
+build	package.json	/^    "build": "vite build",$/;"	s	object:scripts
+dependencies	package.json	/^  "dependencies": {$/;"	o
+dev	package.json	/^    "dev": "vite",$/;"	s	object:scripts
+devDependencies	package.json	/^  "devDependencies": {$/;"	o
+name	package.json	/^  "name": "test-homepage",$/;"	s
+production	package.json	/^    "production": "vite build",$/;"	s	object:scripts
+scripts	package.json	/^  "scripts": {$/;"	o
+serve	package.json	/^    "serve": "vite preview"$/;"	s	object:scripts
+version	package.json	/^  "version": "0.0.0",$/;"	s
+vite	package.json	/^    "vite": "^2.6.4"$/;"	s	object:devDependencies
+vue	package.json	/^    "vue": "^3.2.16"$/;"	s	object:dependencies
